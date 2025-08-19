@@ -24,7 +24,8 @@ Curious about how systems work under the hood and how to make them run faster, s
 - Advanced Go and C for backend + systems engineering  
 - gRPC and Kubernetes for distributed systems  
 - CUDA C++ for GPU-accelerated workloads  
-- Building Linux from scratch and experimenting with kernel subsystems  
+- Buillding Orcherstration tool for LXC
+- MLops
 
 ---
 
