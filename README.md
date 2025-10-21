@@ -14,14 +14,14 @@ Curious about how systems work under the hood and how to make them run faster, s
 ### Current Focus
 - Authentication & Authorization (Keycloak, LDAP, custom workflows)  
 - Multi-tenant SaaS and cloud-native architectures (AWS, Azure, OCI)  
-- Systems programming in **Go, Python ,C**  
-- Linux internals and kernel-space development  
+- Systems programming (User space) in **Go, Python ,C**   
 - High Performance Computing (HPC) with Slurm  
 
 ---
 
 ### Learning & Growth
-- Advanced Go and C for backend + systems engineering  
+- Advanced Go and C for backend + systems engineering
+- Linux internals and kernel-space development 
 - gRPC and Kubernetes for distributed systems  
 - CUDA C++ for GPU-accelerated workloads  
 - Buillding Orcherstration tool for LXC
